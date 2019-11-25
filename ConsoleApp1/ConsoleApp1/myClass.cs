@@ -12,7 +12,6 @@ namespace ConsoleApp1
         }
 
         // This is a line written in Master
-
         // This is a line written in branch2
     }
 }
