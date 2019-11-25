@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("This was writtern in the master");
+            Console.WriteLine("This was also writtern in the master");
         }
     }
 }
