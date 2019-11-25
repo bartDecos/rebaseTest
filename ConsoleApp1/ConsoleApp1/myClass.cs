@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class myClass
     {
-        public void printBranch2Message()
+        private void printBranch2Message()
         {
             Console.WriteLine("This was writtern in branch 2!");
         }
