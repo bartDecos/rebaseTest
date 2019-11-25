@@ -10,5 +10,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("This was writtern in branch 2!");
         }
+
+        // This is a line written in Master
     }
 }
